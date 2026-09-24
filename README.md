@@ -34,5 +34,5 @@ Building practical Data Analytics projects and strengthening my skills in Python
 
 ### 🔗 Connect With Me
 
-- LinkedIn: [Rohin Kamal](linkedin.com/in/rohin-kamal-a2b2773bb)
+- LinkedIn: [Rohin Kamal](https://www.linkedin.com/in/rohin-kamal-a2b2773bb/)
 - GitHub: [RohinDebugger](https://github.com/RohinDebugger)
