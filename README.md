@@ -16,17 +16,17 @@ I work with Python, SQL, Power BI, Tableau, and Excel to perform data cleaning, 
 
 ### 📊 Featured Projects
 
-- **Customer Churn & Revenue Risk Analysis**
-  - Analyzed 7,000+ customer records using Python, SQL, and Power BI.
-  - Identified customer segments contributing to churn and revenue risk.
+**Customer Churn & Revenue Risk Analysis**
+- Analyzed 7,000+ customer records using Python, SQL, and Power BI.
+- Identified customer segments contributing to churn and revenue risk.
 
-- **Retail Sales Performance Dashboard**
-  - Analyzed sales, profit, and regional performance using Python, Pandas, and Tableau.
-  - Built interactive KPI visualizations and trend analysis.
+**Retail Sales Performance Dashboard**
+- Analyzed sales, profit, and regional performance using Python, Pandas, and Tableau.
+- Built interactive KPI visualizations and trend analysis.
 
-- **SaaS Revenue & Cohort Retention Analysis**
-  - Analyzed MRR, cohort retention, and LTV:CAC using Python, SQL, and Power BI.
-  - Built a Power BI dashboard covering revenue and retention metrics.
+**SaaS Revenue & Cohort Retention Analysis**
+- Analyzed MRR, cohort retention, and LTV:CAC using Python, SQL, and Power BI.
+- Built a Power BI dashboard covering revenue and retention metrics.
 
 ### 🎯 Currently Focused On
 
